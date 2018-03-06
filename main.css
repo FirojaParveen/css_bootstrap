@@ -1,0 +1,60 @@
+body {
+	background-color: #1f1f1f;
+	color: #bfbfbf;
+	height: 2000px;
+	
+}
+h1{
+	font-weight: normal;
+}
+ em {
+	 color: #e07a05;
+ }
+  .box {
+	  width: 100px;
+	  height: 100px;
+	  margin-bottom: 20px;
+  }
+  .blueBox {
+	  background: #627da0;
+      position: absolute;
+	  top: 50px;
+	 left: 50px;
+  }
+  .text{
+  color: white;
+  margin-top: 40px;
+  margin-left: 35px;
+  position: fixed;
+  }
+  .text1{
+  color: black;
+  margin-top: 40px;
+  margin-left: 25px;
+  position: absolute;
+  }
+  .redBox {
+   background: red;
+   position: absolute;
+   top: 50px;
+   left: 300px;
+	
+  }
+  .yellowBox {
+	  background: yellow;
+   position: relative;
+   z-index: 1; 
+     
+  }
+  .limeBox {
+	  background: #00FF00;
+	  position: relative;
+	  top: -80px; 
+  }
+  .container {
+	  background: rgba(0, 0, 0, 0.5);
+	  height: 200px;
+	  width: 200px;
+	  margin-top: 300px;
+	 position: fixed;
+  }

@@ -1,0 +1,127 @@
+body {
+	
+	background-image: url("panda.jpg");
+	min-height: 100%;
+    background-position: center;
+    background-size: cover;
+	height: 1000px;
+	
+}
+h1{
+	font-weight: normal;
+}
+ em {
+	 color: #e07a05;
+ }
+  .box {
+	  width: 100px;
+	  height: 100px;
+	  margin-top: 10px;
+	  margin-right: 30px;
+  }
+   
+  .greyBox {
+   background: #778899;
+   border-radius: 20px;
+	float: right;
+  }
+ 
+  .blueBox {
+	  background: #627da0;
+	  border-radius: 20px;
+	  float: left;
+  }
+   .greenBox {
+	  background: #90EE90;
+	   margin: 0 auto;
+	  
+  }
+  .greenBox1 {
+   background: #90EE90;
+  margin: 30px auto;
+  }
+  
+   .text{
+  color: black;
+  margin-top: 40px;
+  margin-left: 35px;
+  position: fixed;
+  }
+   .text1{
+  color: black;
+  margin-top: 40px;
+  margin-left: 35px;
+  position: fixed;
+  }
+  h1{
+	  text-align: center;
+	  clear: both;
+  }
+  .container {
+	  background: rgba(0, 0, 0, 0.5);
+	  top: 50%; 
+	  margin-top: -50px;
+	  width: 100%;
+	  position: absolute;
+  }
+  #green {
+	width: 80px;
+	height: 80px;
+	margin-top: 200px;
+	border-radius: 100%;
+	background-color: #9DE0AD;
+    border: 4px solid #008800;
+	box-shadow: 5px 5px 5px #9DE0AD;
+	display: inline-block;
+	 margin: 200px auto;
+	
+	
+}
+.text2
+{
+	position: fixed;
+	color: #008800;
+	margin-top: 10px;
+    margin-left: 5px;
+	font-weight: bold;
+    font-size: 1em;
+	font-family: Verdana, Arial, sans-serif;
+}
+  #blue {
+    width: 100px;
+    height: 60px;
+	margin-top: 200px;
+	background-color: #627da0;
+	border-radius: 5px;
+	color: black;
+	font-family: Verdana, Arial, sans-serif;
+	text-align: center;
+	font-weight: bold;
+	font-size: 3em;
+	border: 4px solid black;
+	box-shadow: 5px 5px 5px #627da0;
+	display: inline-block;
+	float: left;
+	margin-right: 525px;
+	
+}
+
+
+
+#grey {
+	width: 100px;
+	height: 60px;
+	margin-top: 200px;
+	background-color: #778899;
+	border-radius: 5px;
+	color: black;
+	font-family: Verdana, Arial, sans-serif;
+	text-align: center;
+	font-weight: bold;
+	font-size: 2.5em;
+	border: 4px solid black;
+	box-shadow: 5px 5px 5px #778899;
+	display: inline-block;
+	float: right;
+
+}
